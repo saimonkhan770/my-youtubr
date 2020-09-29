@@ -1,0 +1,29 @@
+ @media(max-width:1245px){
+    .container {
+        max-width: 100%;
+        margin: auto;
+    }
+}
+ @media(max-width:1245px){
+    .video-list {
+        width: 90%;
+    }
+    .menu-item .a1 {
+        display: none;
+    }
+    .menu-item .i1 img {
+        width: 45px;
+    }
+    .menu-item .i1 {
+        padding-left: 34px;
+    }
+    .menu-item {
+        width: 6%;
+    }
+}
+@media(max-width:1100px){
+    .a-video {
+        width: 32%;
+        margin-left: 1%;
+    }
+}
